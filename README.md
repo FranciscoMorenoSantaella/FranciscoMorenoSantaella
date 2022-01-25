@@ -5,11 +5,11 @@
 
 - 🌱 Actualmente estoy aprendiendo a **Especializarme en algunas de las tecnologías que hemos estado usando en el grado superior**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FranciscoMorenoSantaella?tab=repositories](https://github.com/FranciscoMorenoSantaella?tab=repositories)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/FranciscoMorenoSantaella?tab=repositories](https://github.com/FranciscoMorenoSantaella?tab=repositories)
 
 - 💬 Preguntame sobre **Las tecnologías que conozco y he usado**
 
-- 📫 How to reach me **santaellamorenofrancisco@gmail.com**
+- 📫 Como contactar conmigo **santaellamorenofrancisco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
