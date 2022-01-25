@@ -1,7 +1,8 @@
+<img src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/Jm8Oaj6.jpg">
 <h1 align="center">Hola 👋, yo soy FranciscoMorenoSantaella</h1>
 <h3 align="center">Un desarrollador Full Stack</h3>
 
-- 🔭 Actualmente estoy trabajando en **Express Print**
+- 🔭 Actualmente estoy trabajando en el proyecto final del grado superior al que hemos llamado **ExpressPrint**
 
 - 🌱 Actualmente estoy aprendiendo a **Especializarme en algunas de las tecnologías que hemos estado usando en el grado superior**
 
@@ -9,7 +10,7 @@
 
 - 💬 Preguntame sobre **Las tecnologías que conozco y he usado**
 
-- 📫 Como contactar conmigo **santaellamorenofrancisco@gmail.com**
+- 📫 Puedes contactar conmigo por el correo **santaellamorenofrancisco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
