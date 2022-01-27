@@ -26,5 +26,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMorenoSantaella)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="right">:lifrep im ed sacitsidatsE</h3>
+<h3 align="left">Estadisticas de mi perfil</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=franciscomorenosantaella&show_icons=true&locale=en" alt="franciscomorenosantaella" style="display:inline" />
