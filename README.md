@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en el proyecto final del grado superior al que he llamado **Aurora**
 
-- 🌱 Actualmente estoy aprendiendo a **Especializarme en algunas de las tecnologías que hemos estado usando en el grado superior**
+- 🌱 Actualmente estoy aprendiendo a **Especializarme en el apartado Backend con java y springboot y en el apartado Frontend con ionic** 
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/FranciscoMorenoSantaella?tab=repositories](https://github.com/FranciscoMorenoSantaella?tab=repositories)
 
