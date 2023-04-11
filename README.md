@@ -3,7 +3,7 @@
 <img src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/fOWDtYW.jpg">
 <h3 align="center">Un desarrollador alumno en prácticas</h3>
 
-- 🔭 Actualmente estoy trabajando en el proyecto final del grado superior al que he llamado **Aurora**
+- 🔭 Actualmente estoy trabajando en el proyecto final del grado superior al que he llamado **Games4u**
 
 - 🌱 Actualmente estoy aprendiendo a **Especializarme en el apartado Backend con java y springboot y en el apartado Frontend con ionic** 
 
